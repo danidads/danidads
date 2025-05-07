@@ -1,20 +1,59 @@
-🚀 Olá, eu sou a Danielle! Bem-vindo ao meu GitHub!
+# 🚀 Olá, eu sou a Danielle!  
+### Qualidade é o meu foco. Bem-vindo(a) ao meu GitHub! 👩‍💻💡
 
-Cada dia mais interessada na área de  Qualidade de Software. Com experiência em testes funcionais, 
-automação e mobile, utilizo diversas ferramentas e metodologias para impulsionar a qualidade e a entrega contínua de software.
+Sou uma profissional apaixonada por **Qualidade de Software**, com experiência sólida em testes funcionais, automação de APIs, mobile e performance. Acredito que software de qualidade é construído com **colaboração, curiosidade e melhoria contínua**. Aqui no meu GitHub, compartilho projetos, estudos e automações que impulsionam entregas mais seguras e eficientes.
 
-🚀 Minhas principais competências
-📝 Testes Funcionais e Manuais: Análise de requisitos, execução de casos de teste, gestão de defeitos (JIRA/Xray, Azure DevOps).
-🤖 Automação de Testes: Postman, Robot Framework.
-📱 Testes Mobile: Automação de testes em aplicativos Android com Appium.
-⚡ Metodologias Ágeis: Scrum, Kanban, BDD, TDD.
-🗄️ Bancos de Dados: SQL, MongoDB.
-🚀 Ferramentas de CI/CD: Git, GitHub Actions, Azure DevOps.
-📝 Documentação detalhada de processos.
+---
 
-Sempre em busca de novos desafios e aprendizado contínuo, colaboro com times de engenharia para criar soluções escaláveis, sustentáveis e eficientes. Vamos juntos construir um software de qualidade! ✨
+## ✨ Sobre mim
 
-<!---
-danidads/danidads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎯 Foco em **entregar valor com qualidade**.
+- 💬 Sempre buscando aprender e compartilhar conhecimento.
+- 👩‍🔬 Gosto de investigar falhas e contribuir com soluções escaláveis e sustentáveis.
+- 🤝 Trabalho colaborativo com squads de engenharia e produto.
+
+---
+
+## 🚀 Principais Competências
+
+### 🧪 Testes Funcionais e Manuais
+- Análise de requisitos, criação e execução de casos de teste.
+- Gestão de defeitos com **JIRA/Xray** e **Azure DevOps**.
+
+### 🤖 Automação de Testes
+- Automação de APIs com **Postman** (testes, scripts, Newman).
+- Testes end-to-end com **Robot Framework**.
+- **Testes de performance** com **JMeter** e **k6**.
+
+### 📱 Testes Mobile
+- Automação de aplicativos Android com **Appium**.
+
+### 🔁 Metodologias Ágeis
+- Experiência com **Scrum**, **Kanban**, **BDD** e **TDD**.
+
+### 🗄️ Bancos de Dados
+- Operações CRUD com **SQL**.
+- Conhecimentos em **MongoDB**.
+
+### ⚙️ CI/CD e Versionamento
+- **Git**, **GitHub Actions** e **Azure DevOps** integrando automações ao pipeline de entrega contínua.
+
+---
+
+## 📝 Documentação e Organização
+- Escrita técnica clara e objetiva.
+- Criação de documentação de testes, planos, métricas e evidências de execução.
+
+---
+
+## 💬 Vamos nos conectar!
+
+Se você curte falar sobre **qualidade, automação, testes mobile, performance ou boas práticas de desenvolvimento**, me chama pra conversar!  
+Vamos juntos construir um software de qualidade! ✨
+
+---
+
+📫 **Contato:**  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniellesousadads/))  
+📍 Baseada em Portugal | Atuando de forma remota 🌍
+
