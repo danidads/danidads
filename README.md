@@ -54,6 +54,9 @@ Vamos juntos construir um software de qualidade! ✨
 ---
 
 📫 **Contato:**  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniellesousadads/))  
+[![LinkedIn]([https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniellesousadads/))  
+
+[![GitHub]([https://avatars.githubusercontent.com/u/137322187?v=4)](https://www.linkedin.com/in/seu-perfil/](https://github.com/danidads/)) 
+
 📍 Baseada em Portugal | Atuando de forma remota 🌍
 
