@@ -23,7 +23,7 @@ Sou uma profissional apaixonada por **Qualidade de Software**, com experiência 
 ### 🤖 Automação de Testes
 - Automação de APIs com **Postman** (testes, scripts, Newman).
 - Testes end-to-end com **Robot Framework**.
-- **Testes de performance** com **JMeter** e **k6**.
+
 
 ### 📱 Testes Mobile
 - Automação de aplicativos Android com **Appium**.
@@ -45,7 +45,9 @@ Sou uma profissional apaixonada por **Qualidade de Software**, com experiência 
 - Criação de documentação de testes, planos, métricas e evidências de execução.
 
 ---
-
+## 📝 Conhecimento
+- **Testes de performance** com **JMeter** e **k6**.
+- 
 ## 💬 Vamos nos conectar!
 
 Se você curte falar sobre **qualidade, automação, testes mobile, performance ou boas práticas de desenvolvimento**, me chama pra conversar!  
