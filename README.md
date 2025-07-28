@@ -16,17 +16,18 @@ Sou uma profissional apaixonada por **Qualidade de Software**, com experiência 
 
 ## 🚀 Principais Competências
 
-### 🧪 Testes Funcionais e Manuais
+### 🧪 Testes Funcionais, Manuais
 - Análise de requisitos, criação e execução de casos de teste.
 - Gestão de defeitos com **JIRA/Xray** e **Azure DevOps**.
+- Automatização de APIs com **Postman** (testes, scripts, Newman)
 
 ### 🤖 Automação de Testes
-- Automação de APIs com **Postman** (testes, scripts, Newman).
-- Testes end-to-end com **Robot Framework**.
+
+- Testes end-to-end com **Robot Framework**. API , Front e Mobile
 
 
 ### 📱 Testes Mobile
-- Automação de aplicativos Android com **Appium**.
+- Automação de aplicativos Android com **Appium** , **Bluestacks**, **Perfecto**.
 
 ### 🔁 Metodologias Ágeis
 - Experiência com **Scrum**, **Kanban**, **BDD** e **TDD**.
